@@ -7,4 +7,5 @@ Yellow
 Blue
 Green
 Red
-These are the colors of my rainbow.
+Unicorn
+These are the colors of my rainbow and unicorn.
